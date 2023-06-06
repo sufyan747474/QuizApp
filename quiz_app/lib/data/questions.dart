@@ -21,7 +21,7 @@ const questions = [
     [
       'Update UI as data changes',
       'Update data as UI changes',
-      'Ignore data change',
+      'Ignore data changes',
       'Render UI that does not depend on data',
     ],
   ),
